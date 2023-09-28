@@ -14,7 +14,7 @@ div#container {
 }
 
 div#header {
-    padding-top: 30px;
+    padding-top: 25px;
     justify-content: center;
     margin-bottom: 30px;
 }
@@ -58,7 +58,7 @@ div#body #bodyInner {
 
 a.socialButton {
     text-decoration: none;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
     display: block;
 }
 
