@@ -82,6 +82,11 @@ div#twitterIcon {
     background-color: #55ACEE;
 }
 
+div#whatsappIcon {
+    color: #FFFFFF;
+    background-color: rgb(68, 176, 68);
+}
+
 
 @media screen and (min-width: 992px) {
 
